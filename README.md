@@ -1,2 +1,2 @@
 # botzLeague
-logically similar to crypto-kitties, botzLeague is a proof-of-concept derived from other projects, updated and studied. 
+logically similar to crypto-kitties, botzLeague is an experimental proof-of-concept derived from other smart-contract projects, updated and studied. 
